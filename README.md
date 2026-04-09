@@ -1,5 +1,6 @@
 # 💫 About Me:
-Junior Backend Developer with 1+ year of hands-on experience building scalable and secure backend systems using ASP.NET Core and NestJS. Experienced in designing RESTful APIs, implementing real-time systems, and integrating third-party services. Strong understanding of clean architecture, design patterns, and performance optimization. Passionate about solving complex problems and delivering high-quality, production-ready systems
+Junior Backend Developer with 1+ year of hands-on experience building scalable and secure backend systems using ASP.NET Core and NestJS. 
+Experienced in designing RESTful APIs, implementing real-time systems, and integrating third-party services. Strong understanding of clean architecture, design patterns, and performance optimization. Passionate about solving complex problems and delivering high-quality, production-ready systems
 
 
 ## 🌐 Socials:
